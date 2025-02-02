@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CTnvD4pceH6VVoauTWwXFlgRVCOl0unkbkD95//y564=",
+  "Source": "RoleBasedAuthorization",
+  "BasePath": "_content/RoleBasedAuthorization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
